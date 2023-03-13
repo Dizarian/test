@@ -15,6 +15,6 @@
     "azure" : {
         "client_id": "6e1cd08d-03ff-4cad-8a99-56e4f368770f",
         "client_secret": "a2900f62-9291-4495-8140-d942cb195f88",
-        "redirect_uri": ""
+        "redirect_uri": "https://dashboard.render.com/web/srv-cg7mga1mbg5ab7hhr3gg/deploys/dep-cg7mgapmbg5ab7hhr4kg"
     }
 }
